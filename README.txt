@@ -32,5 +32,3 @@ FITUR TRACKING DO
 CATATAN PENTING
 - Data bersifat dummy dan disimpan di memori browser selama halaman terbuka. Refresh halaman akan mengembalikan data ke data awal.
 - Aplikasi ini tidak memakai database/backend, sesuai instruksi tugas.
-- Lampiran contoh memiliki nomor DO lama DO2025-0001. Nomor DO baru mengikuti tahun berjalan dan urutan data untuk tahun tersebut.
-
